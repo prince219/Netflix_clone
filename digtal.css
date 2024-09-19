@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.img {
+    background-image: url(Netflix.jpg);
+    height: 600px;
+    background-size: cover;
+}
+
+body {
+    background: #000;
+    color: #fff;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+
+}
+
+.logo {
+    background-size: cover;
+    font-size: 45px;
+    display: flex;
+    color: red;
+}
+
+.login {
+
+    color: white;
+    background-color: red;
+    display: flex;
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    margin-top: 8px;
+
+}
+.inner-head{
+    color: white;
+    font-size: 30px;
+    margin-top:150px ;
+    margin-left: 100px;
+}
+.inner-font{
+    color: white;
+    font-size: 40px;  
+    margin-left: 100px;
+}
+.pragraph{
+    color: white;
+    font-size: 27px;  
+    margin-left: 100px; 
+}
+.placeeholder{
+    margin-left: 102px;
+    position: absolute;
+    display: flex;
+    height: 30px;
+    width: 10px;
+    margin-top: 20px;
+ 
+   
+}
+/* .btn-lg{
+    display: flex;
+    height: 40px;
+    border-radius: 5px; */
+    
+
+.start{
+    background-color: red;
+    text-align: center;
+    color: white;
+    width: 78px;
+    height: 28px;
+    display: flex;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+.bar{
+    height: 28px; 
+}
+.second-page{
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    
+}
+.innermsg{
+    margin-top: 70px;
+    margin-left: 120px;
+    line-height: -15px;
+}
+.showcase-img{
+    /* right: 0; */
+    /* position: relative;
+   z-index: 1;
+   margin-left: 120px; */
+   position: relative;
+  z-index: 1;
+}
+.howcase-animations{
+    /* margin-right: 90px;
+    position: absolute;
+    z-index: -1; */
+    position: absolute;
+    left: 75px;
+    
+    z-index: -1;
+    
+}
+.second-page{
+   
+    display: flex; 
+  width: 85%;
+   margin: auto; 
+  }
+  .pagetwo {
+    border-bottom: 10px solid #333;
+    padding: 2rem 0;
+    border-top: 10px solid #333;
+  }
+  .pagethree {
+    border-bottom: 10px solid #333;
+    padding: 2rem 0;
+    border-top: 10px solid #333;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   position: relative;
+   z-index: 1;
+   line-height: 1.25;
+   margin-bottom: 7px;
+ 
+  }
+.third-page{
+    height: 150px;
+    background-color: black;
+    background-size: cover;     
+}
+.thirdmessage{
+    margin-left: 800px;
+    margin-top: 120px;
+
+}
+.showcase-img{
+    margin: 1.0rem 0;
+    height: 100%;
+}
+.downloading{
+    background: #000;
+    width: 60%;
+    height: 125px;
+    position: absolute;
+    top: 335px;
+    left: 125px;
+    border: 5px solid #333;
+    border-radius: 10px;
+    padding: 0.7rem;
+    display: flex;   
+}
+.pagefour{
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    border-bottom: 10px solid #333;
+    display: flex; 
+    width: 100%;
+    margin: auto; 
+    padding-bottom: 20px;     
+    
+}
+.header{
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.page_five{
+height: 800px;
+background-color: black;
+background-size: cover;
+border-bottom: 10px solid #333;
+display: flex; 
+width: 100%;
+margin: auto; 
+padding-bottom: 20px;  
+}
+.heading{
+    margin-left: 450px;
+   
+    display: flex;
+  justify-content: space-between;
+  padding: 1.5rem;
+  font-size: 25px;
+}
+.list{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 200px;
+}
+.summary{
+    margin-top: 50px;
+    font-size: 35px;
+    margin-left: 45px;
+}
+.mail_detail{
+    
+}
+.btn-lg{
+    background-color: red;
+    color: black;
+    
+}
+.footer{
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    border-bottom: 10px solid #333;
+    display: flex; 
+    width: 100%;
+    margin: auto; 
+    padding-bottom: 20px;  
+    }
+    .low_heading{
+        margin-left: 200px;
+        margin-top: 95px;
+        display: flex;
+        position: absolute;
+    }
+    .list1{
+        margin-top: 180px;
+        margin-left: 330px;
+        display: flex;
+    }
+    .list1 ul {
+        width: 100%;
+      }
+      .list1 li {
+        font-size: 16px;
+      }
+    .language{
+        margin-top: 180px;
+    }
+
+
